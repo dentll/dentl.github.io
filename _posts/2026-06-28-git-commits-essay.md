@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Git Commits and Essays"
+date: 2026-06-28
+category:
+---
+
 # Git Commits For Future Essays
 
 ## What I Learned Today
